@@ -23,6 +23,7 @@
 *.a
 *.lib
 
+keep
 # Executables
 *.exe
 *.out
